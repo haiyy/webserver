@@ -1,0 +1,1 @@
+function data(){var t=new Date;return t.getFullYear()+"年"+(t.getMonth()+1)+"月"+t.getDate()+"日"}

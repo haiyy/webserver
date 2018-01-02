@@ -1,0 +1,21 @@
+{
+  "name": "zk1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "*",
+    "gulp-uglify": "*",
+    "gulp-concat": "*",
+    "gulp-clean-css": "*"
+  },
+  "dependencies": {
+    "gulp-rename": "^1.2.2"
+  }
+}
